@@ -5,7 +5,7 @@ Portfolio for Advanced GIS Sp2022
   food! My favorite restaurants in town are Bahn Mi and Ti, and Morcillas in Lawrenceville! I don't 
   drink coffee but I am a BIG tea drinker.
   
-  # What I hope to learn
+# What I hope to learn
   
   I really enjoyed my intro to GIS class i took in the fall semester of 2021. I am really interested in
   exploring spatial in/justice and I think this class will allow me to expand on my current skills and learn
