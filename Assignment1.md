@@ -235,3 +235,8 @@
     ]
   }
 ]
+
+# Color Palette from Human Rights Watch
+
+![image of color palette](ColorPalette.png)
+
