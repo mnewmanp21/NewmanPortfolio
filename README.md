@@ -10,3 +10,8 @@ Portfolio for Advanced GIS Sp2022
   I really enjoyed my intro to GIS class i took in the fall semester of 2021. I am really interested in
   exploring spatial in/justice and I think this class will allow me to expand on my current skills and learn
   some new ones to be able to conduct high-quality analyses. 
+
+# Assignment 1
+
+[link to Assignment 1](Assignment1.md)
+
