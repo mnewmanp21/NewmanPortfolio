@@ -246,6 +246,9 @@
 
 ![image of map](Map2.png)
 
+# Summary
+
+I chose the organization Human Rights Watch because I interned there a few summers ago. I found my color palette from a screenshot of the homepage of the website. When I went into the google map builder I knew I wanted to use the beige color as my most utilized ground layer. The lighter blue then replaced the original water feature color. I chose to use the darker blue as the natural landscapes. In order to make the major highways pop against the beige I used the dark gray and I incorporated the bright orange that was not in my color palette but is one of the brand colors for HRW for other less major roadways and for the text color for Points of Interest. Finally I used a cream color for the local roadways so that it stood out against the beige but was not too distracting. 
 
 
 
