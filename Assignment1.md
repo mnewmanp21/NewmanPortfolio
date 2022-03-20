@@ -240,3 +240,13 @@
 
 ![image of color palette](ColorPalette.png)
 
+# Map Scheme
+
+![image of map1](Map1.png)
+
+![image of map](Map2.png)
+
+
+
+
+
