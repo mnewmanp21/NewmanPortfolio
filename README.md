@@ -32,7 +32,7 @@ My interest in geospatial analysis has continued to grow over the past semester.
 
 # Final Project
 
-[link to Dashboard] 
+[link to page](FinalProject.md) 
 
 
 
